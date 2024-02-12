@@ -7,3 +7,5 @@ Dataset collection for training
    - Customer-Flight-Activity.csv
    - Customer-Loyalty_history.csv
    - metadata.csv
+
+- [Apple quality](https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality)
